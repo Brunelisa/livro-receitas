@@ -1,7 +1,2 @@
-#Strogonoff de Frango: ::chicken
-
-**Negrito**
-
-__Italico__
-
+#Strogonoff de Frango 
 
